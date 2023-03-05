@@ -1,0 +1,13 @@
+.main {
+  float: right;
+  width: 875px;
+  text-align: center;
+}
+
+.sidediv {
+  float: left;
+}
+
+.title {
+  margin-top: 50px;
+}
